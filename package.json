@@ -1,0 +1,27 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Node learning project",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node meadowlark.js"
+  },
+  "keywords": [
+    "meadowlark"
+  ],
+  "author": "js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atryus28/NodeMeadowlark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atryus28/NodeMeadowlark/issues"
+  },
+  "homepage": "https://github.com/atryus28/NodeMeadowlark#readme"
+}
